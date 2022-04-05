@@ -32,7 +32,7 @@
     <br>
     <br>
     <b>Describe yourself</b><br>
-    <textarea id="text_area" cols="30" rows="10"></textarea>
+    <textarea id="text_area" &nbsp cols="30" rows="10"></textarea>
     <br>
     <label for="gender">Gender</label><br>
     <input type="radio" id="radio_male" value="Male">
